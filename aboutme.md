@@ -4,10 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is South Coast PY . We want to have and enhance the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- To Learn, Share and Care
+- To be extremely supportive and building to this pythonic community
 
 What else do you need?
 
