@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: Why you'd want to come along with us!
 ---
 
-My name is South Coast PY . We want to have and enhance the following qualities:
+We are South Coast PY . We want to have and enhance the following qualities:
 
 - To Learn, Share and Care
 - To be extremely supportive and building to this pythonic community
